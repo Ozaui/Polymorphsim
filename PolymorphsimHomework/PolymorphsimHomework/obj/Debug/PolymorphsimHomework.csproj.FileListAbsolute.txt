@@ -1,0 +1,7 @@
+C:\GitHub Project\C#\Polymorphsim\PolymorphsimHomework\PolymorphsimHomework\bin\Debug\PolymorphsimHomework.exe.config
+C:\GitHub Project\C#\Polymorphsim\PolymorphsimHomework\PolymorphsimHomework\bin\Debug\PolymorphsimHomework.exe
+C:\GitHub Project\C#\Polymorphsim\PolymorphsimHomework\PolymorphsimHomework\bin\Debug\PolymorphsimHomework.pdb
+C:\GitHub Project\C#\Polymorphsim\PolymorphsimHomework\PolymorphsimHomework\obj\Debug\PolymorphsimHomework.csproj.AssemblyReference.cache
+C:\GitHub Project\C#\Polymorphsim\PolymorphsimHomework\PolymorphsimHomework\obj\Debug\PolymorphsimHomework.csproj.CoreCompileInputs.cache
+C:\GitHub Project\C#\Polymorphsim\PolymorphsimHomework\PolymorphsimHomework\obj\Debug\PolymorphsimHomework.exe
+C:\GitHub Project\C#\Polymorphsim\PolymorphsimHomework\PolymorphsimHomework\obj\Debug\PolymorphsimHomework.pdb
